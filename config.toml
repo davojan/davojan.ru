@@ -1,0 +1,34 @@
+baseurl = "http://davojan.ru/"
+languageCode = "ru-ru"
+title = "/davojan/register"
+
+[params]
+  sidebartitle = ""
+  sidebartagline = "личный сайтик имени Галояна Давида"
+  sidebarphoto = ""
+
+
+[[menu.main]]
+  name = "Обо мне"
+  url = "/about"
+
+
+[[menu.social]]
+  pre = "<i class='fa fa-twitter-square'></i>"
+  url = "http://www.twitter.com/davojan"
+  identifier = "twitter"
+
+[[menu.social]]
+  pre = "<i class='fa fa-facebook-square'></i>"
+  url = "https://www.facebook.com/david.galoyan"
+  identifier = "facebook"
+
+[[menu.social]]
+  pre = "<i class='fa fa-github-square'></i>"
+  url = "https://github.com/davojan"
+  identifier = "github"
+
+[[menu.social]]
+  pre = "<i class='fa fa-rss-square'></i>"
+  url = "http://feeds.feedburner.com/davojan"
+  identifier = "rss"
