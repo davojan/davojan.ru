@@ -2,15 +2,18 @@ baseurl = "http://davojan.ru/"
 languageCode = "ru-ru"
 title = "/davojan/register"
 
-[params]
-  sidebartitle = ""
-  sidebartagline = "личный сайтик имени Галояна Давида"
-  sidebarphoto = ""
-
 
 [[menu.main]]
   name = "Обо мне"
-  url = "/about"
+  url = "/about/"
+
+[[menu.main]]
+  name = "Спорт"
+  url = "/sports/"
+
+[[menu.main]]
+  name = "Гиковское"
+  url = "/tech/"
 
 
 [[menu.social]]

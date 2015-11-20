@@ -16,7 +16,7 @@ h1 {
 
 h1.brand-title {
   font-family: "Ubuntu Mono", monospace;
-  font-size: 1.45rem;
+  font-size: 1.4rem;
 }
 
 h1.brand-title a {
@@ -28,7 +28,7 @@ h1.brand-title .nav-item-separator {
 }
 
 h2.brand-tagline {
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   margin-top: 0.25rem;
 }
 
@@ -36,6 +36,12 @@ h2.brand-tagline {
   font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
   font-weight: 200;
 }
+
+.header .sidebarphoto {
+  width: 50px;
+  height: 50px;
+}
+
 
 /* hide home link from redlounge theme */
 .nav-list .nav-item:first-child {
@@ -68,8 +74,27 @@ h1.post-title a {
   }
 
   .nav {
-    margin-top: 30%;
+    margin-top: 20%;
   }
 
+  .header .sidebarphoto {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+  }
 
+}
+
+@media (max-width: 1028px) {
+  h1.brand-title {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .header {
+    margin: 0 1rem 0;
+  }
 }
