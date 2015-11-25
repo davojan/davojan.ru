@@ -61,6 +61,25 @@ h1.post-title a {
   color: #B72121;
 }
 
+.content {
+  max-width: 50rem;
+}
+
+.post blockquote {
+  font-style: italic;
+}
+
+.post blockquote p {
+  color: #999;
+}
+
+.image-on-right {
+  float: right;
+  margin-left: 1.5rem;
+}
+
+
+
 @media (min-width: 48rem) {
 
   .header {
