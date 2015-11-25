@@ -104,6 +104,10 @@ h1.post-title a {
     margin-top: 10%;
   }
 
+  .nav-item {
+    display: block;
+  }
+
 }
 
 @media (max-width: 1028px) {
