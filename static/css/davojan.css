@@ -67,10 +67,33 @@ h1.post-title a {
 
 .post blockquote {
   font-style: italic;
+  background-color: #B37777;
+  margin: 1em 1em 1em 0;
+  padding-left: 40px;
+  padding-right: 20px;
+  padding-top: 0.5rem;
+  line-height: 1.3rem;
+  border-radius: 5px;
+  display: table;
+  position: relative;
+}
+
+.post blockquote:before {
+  content: "\f10d";
+  font-family: fontawesome;
+  font-size: 1rem;
+  color: #2d303b;
+  color: #A00505;
+  display: block;
+  position: absolute;
+  top: 1rem;
+  left: 0.5rem;
 }
 
 .post blockquote p {
-  color: #999;
+  font-family: Corbel, "Lucida Grande", "Lucida Sans", sans-serif;
+  color: #eee;
+  margin-bottom: 1rem;
 }
 
 .image-on-right {
