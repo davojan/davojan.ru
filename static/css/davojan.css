@@ -61,8 +61,26 @@ h1.post-title a {
   color: #B72121;
 }
 
+.post-meta {
+  margin-bottom: 0;
+  margin-bottom: 0.5rem;
+}
+
+.post-meta .post-category {
+  color: #fff;
+}
+
+.post-categories {
+  display: inline-block;
+  margin-left: 1rem;
+}
+
 .content {
   max-width: 50rem;
+}
+
+.post {
+  line-height: 1.5rem;
 }
 
 .post blockquote {

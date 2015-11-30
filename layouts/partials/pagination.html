@@ -1,0 +1,11 @@
+{{ if lt 1 .TotalPages  }}
+<nav class="pagination" role="navigation">
+  {{if .HasNext}}
+    <a class="older-posts" href="{{ .Next.URL }}">&larr; Раньше</a>
+  {{end}}
+  <span class="page-number">Страница {{ .PageNumber }} из {{.TotalPages}}</span>
+  {{if .HasPrev}}
+    <a class="newer-posts" href="{{ .Prev.URL }}">Позже &rarr;</a>
+  {{end}}
+</nav>
+{{end}}
