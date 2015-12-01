@@ -1,11 +1,11 @@
-{{ if lt 1 .TotalPages  }}
+{{ if lt 1 .TotalPages }}
 <nav class="pagination" role="navigation">
   {{if .HasNext}}
-    <a class="older-posts" href="{{ .Next.URL }}">&larr; Раньше</a>
+    <a class="older-posts dark-red" href="{{ .Next.URL }}">&larr; Раньше<span class="decorative-marker">//</span></a>
   {{end}}
-  <span class="page-number">Страница {{ .PageNumber }} из {{.TotalPages}}</span>
+  <span class="page-number">Стр. {{ .PageNumber }} из {{.TotalPages}}</span>
   {{if .HasPrev}}
-    <a class="newer-posts" href="{{ .Prev.URL }}">Позже &rarr;</a>
+    <a class="newer-posts dark-red" href="{{ .Prev.URL }}"><span class="decorative-marker">//</span>Позже &rarr;</a>
   {{end}}
 </nav>
 {{end}}

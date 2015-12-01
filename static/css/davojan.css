@@ -83,6 +83,10 @@ h1.post-title a {
   line-height: 1.5rem;
 }
 
+.post p {
+  margin-bottom: 1rem;
+}
+
 .post blockquote {
   font-style: italic;
   background-color: #B37777;
@@ -119,7 +123,31 @@ h1.post-title a {
   margin-left: 1.5rem;
 }
 
+.pagination {
+  width: 100%;
+  text-align: center;
+  margin-top: 1.5rem;
+}
 
+.pagination a {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.older-posts {
+  float: left;
+}
+
+.newer-posts {
+  float: right;
+}
+
+.page-number {
+  color: #999;
+  font-size: 0.8rem;
+}
 
 @media (min-width: 48rem) {
 
