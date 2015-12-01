@@ -9,7 +9,7 @@
 
       <div class="posts">
 
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
         
         {{ range $paginator.Pages }}
           <section  class="post">

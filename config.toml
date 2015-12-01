@@ -2,6 +2,7 @@ baseurl = "http://davojan.ru/"
 languageCode = "ru-ru"
 title = "/davojan/register"
 
+disqusShortname = "davojan"
 
 [[menu.main]]
   name = "Обо мне"
