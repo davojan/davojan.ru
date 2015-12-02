@@ -53,6 +53,21 @@ h2.brand-tagline {
   font-size: 1.3rem;
 }
 
+.sidebar {
+  min-height: 350px;
+}
+
+.license {
+  position: absolute;
+  bottom: 0;
+  right: 2rem;
+  text-align: right;
+  font-size: 0.7rem;
+  vertical-align: middle;
+  height: 1.5rem;
+
+}
+
 .post-title {
   font-size: 1.4rem;
 }
