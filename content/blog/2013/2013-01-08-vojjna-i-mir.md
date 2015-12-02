@@ -11,7 +11,7 @@ categories:
 ---
 
 {{<figure 
-    src="http://davojan.ru/wp-content/uploads/2013/01/1000294227-186x300.jpg"
+    src="/blog/2013/img/vojjna-i-mir.jpg"
     alt="Война и мир"
     class="image-on-right"
 >}}

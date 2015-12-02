@@ -6,6 +6,8 @@ layout: post
 slug: kak-limita-iskala-dom-v-podmoskove
 title: О том, как лимита искала дом в подмосковье
 wordpress_id: 180
+bannerinline: /blog/2009/img/search-directions.png
+thumbnail: /blog/2009/img/search-directions.png
 categories:
 - События
 tag:
