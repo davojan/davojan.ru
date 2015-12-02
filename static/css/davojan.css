@@ -118,6 +118,14 @@ h1.post-title a {
   margin-bottom: 1rem;
 }
 
+.post blockquote p a {
+  color: #EFEAEA;
+}
+
+.post blockquote p a:hover {
+  color: #7F1000;
+}
+
 .image-on-right {
   float: right;
   margin-left: 1.5rem;
