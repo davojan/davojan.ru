@@ -10,7 +10,7 @@
       <div class="posts">
 
         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
-        
+
         {{ range $paginator.Pages }}
           <section  class="post">
             <header class="post-header">
@@ -48,7 +48,7 @@
             	{{ .Summary }}
             </article>
 			<div class="read-more-link">
-				<a href="{{ .RelPermalink }}"><span class="read-more-slashes">//</span>Читать дальше...</a>
+				<a href="{{ .RelPermalink }}"><span class="read-more-slashes">//</span>Читать дальше…</a>
 			</div>
           </section>
         {{ end }}

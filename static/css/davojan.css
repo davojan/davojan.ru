@@ -152,6 +152,20 @@ h1.post-title a {
   margin-left: 1.5rem;
 }
 
+.post-summary {
+  margin-bottom: 1rem;
+}
+
+.read-more-link {
+  margin-top: -1rem;
+}
+
+.read-more-link a {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 .pagination {
   width: 100%;
   text-align: center;
