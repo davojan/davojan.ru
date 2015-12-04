@@ -43,11 +43,6 @@ h2.brand-tagline {
 }
 
 
-/* hide home link from redlounge theme */
-.nav-list .nav-item:first-child {
-  display: none;
-}
-
 .social-buttons {
   font-size: 1.3rem;
 }
@@ -192,6 +187,31 @@ h1.post-title a {
   font-size: 0.8rem;
 }
 
+.archive-list {
+  list-style-type: none;
+  line-height: 1.2rem;
+  padding-left: 0;
+}
+
+.archive-list>li {
+  display: inline;
+}
+
+.archive-list a {
+  font-family: Corbel, "Lucida Grande", "Lucida Sans", sans-serif;
+}
+
+.archive-list time {
+  font-family: Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+}
+
+.archive-year {
+  font-family: Avenir, Corbel, "Ubuntu Mono", monospace;
+  font-weight: normal;
+  font-size: 1.2rem;
+  color: #7F1000;
+}
+
 @media (min-width: 48rem) {
 
   .header {
@@ -244,5 +264,11 @@ h1.post-title a {
 @media (max-width: 900px) {
   .header {
     margin: 0 1rem 0;
+  }
+}
+
+@media (max-width: 30rem) {
+  .archive-list>li {
+    display: block;
   }
 }

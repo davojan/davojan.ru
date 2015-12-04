@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+<body>
+  <div id="layout" class="pure-g">
+    {{ partial "sidebar.html" . }}
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+      <a name="top"></a>
+      {{ partial "listtop.html" . }}
+
+      <h1 class="post-title"><a href="/archive/">Архив записей</a></h1>
+
+      {{ $filtered := where .Site.Pages "Type" "!=" "archive" }}
+
+      {{ range $filtered.GroupByDate "2006" }}
+        <div class="pure-g">
+          <div class="pure-u-1 pure-u-md-1-8">
+            <h2 class="archive-year">{{ .Key }}</h2>
+          </div>
+          <ul class="archive-list pure-u-1 pure-u-md-7-8">
+          {{ range .Pages }}
+            <li>
+              <span class="nav-item-separator">//</span>&nbsp;{{if not (isset .Params "grlog") }}<time class="post-date-month">{{ .Date.Format "2 Jan" }}</time>, {{ end }}
+              <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>&nbsp;
+            </li>
+          {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+  {{ partial "bodyend.html" . }}
+</body>
+</html>

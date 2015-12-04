@@ -5,16 +5,24 @@ title = "/davojan/register"
 disqusShortname = "davojan"
 
 [[menu.main]]
+  weight = 1
   name = "Обо мне"
   url = "/about/"
 
 [[menu.main]]
+  weight = 2
   name = "Спорт"
   url = "/sports/"
 
 [[menu.main]]
+  weight = 3
   name = "Гиковское"
   url = "/tech/"
+
+[[menu.main]]
+  weight = 4
+  name = "Архив"
+  url = "/archive/"
 
 
 [[menu.social]]
