@@ -1,0 +1,9 @@
+<entry>
+<time>14:34</time>
+<subj>Урааа! вышел релиз PHP 5</subj>
+<text>Только что решил проверить новости на php.net, без особой надежды в&nbsp;<nobr>общем-то.</nobr> Меня поджидал сюрприз. Это <nobr>всё-таки</nobr> случилось. <nobr>Он-таки</nobr> релизнулся. Я&nbsp;этого события уже год жду. Дико рад. Слава яйцам. Аминь&hellip;</text>
+<keywords>php</keywords>
+<source>http://www.php.net/</source>
+<stamp>1089873279</stamp>
+
+<posts>1</posts>

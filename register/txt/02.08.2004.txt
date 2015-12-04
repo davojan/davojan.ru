@@ -1,0 +1,8 @@
+<entry>
+<time>14:54</time>
+<subj><nobr>IT-шники</nobr> поймут</subj>
+<text>Разговор двух сотрудников по поводу нашей столовой:<br>- Что там сегодня дают?<br>- Ну, салатики дефалт<i>о</i>вые,&hellip;</text>
+<keywords>fun, работа</keywords>
+<stamp>1091429653</stamp>
+
+<posts>2</posts>

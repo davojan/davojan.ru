@@ -1,0 +1,9 @@
+<entry>
+<time>12:11</time>
+<subj>Каннабола</subj>
+<text>Вот товарищи из жж вывели математическую формулу травы в&nbsp;полярных координатах:<br><code>R&nbsp;=&nbsp;(1+sin(t))&nbsp;(1+0.9cos(8t))&nbsp;(1+0.1cos(24t))&nbsp;(0.5+0.05cos(140t))</code>&nbsp;&#151; с&nbsp;зазубринками.<br><code>R&nbsp;=&nbsp;(1+sin(t))&nbsp;(1+0.9cos(8t))&nbsp;(1+0.1cos(24t))</code>&nbsp;&#151; без зазубринок.<p>P.S.: Пост&nbsp;&#151; чисто как памятка для себя. Ни в&nbsp;коей мере не претендую на авторство.</text>
+<keywords>математика</keywords>
+<source>http://www.livejournal.com/users/stasikoffjj/28049.html</source>
+<stamp>1110431487</stamp>
+
+<posts>0</posts>

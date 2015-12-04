@@ -1,0 +1,8 @@
+<entry>
+<time>19:03</time>
+<subj>Навеяло…</subj>
+<text>А&nbsp;не стать&nbsp;ли мне джудаем?<p><code>$&nbsp;crontab&nbsp;-e<br>0&nbsp;&nbsp;22&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;echo&nbsp;&quot;А&nbsp;не&nbsp;стать&nbsp;ли&nbsp;мне&nbsp;джудаем?&quot;&nbsp;&#124;&nbsp;/usr/bin/think&nbsp;-l&nbsp;ru&nbsp;-t&nbsp;2h<br>:wq</code></text>
+<keywords>разное</keywords>
+<stamp>1108209783</stamp>
+
+<posts>3</posts>

@@ -1,0 +1,9 @@
+<entry>
+<time>11:16</time>
+<subj>Как построить доклад на защите диплома</subj>
+<text>Спасибо, Nosferatus. Прислал мегассылку про то, &laquo;<a href="http://belani.narod.ru/dip/doklad.htm" target="_blank" title="в новом окне">Как построить доклад на защите дипломного проекта</a>&raquo;. Всем смотреть обязательно, очень сильно соответствует нашему диплому и&nbsp;вроде&nbsp;бы толково написано. Только не забывайтесь&nbsp;&#151; у&nbsp;нас не ГЭК, а&nbsp;ГАК&nbsp;&#151; Государственная аттестационная комиссия. Вот, а&nbsp;то совсем непонятно было, как презенташку делать.</text>
+<keywords>диплом</keywords>
+<source>http://belani.narod.ru/dip/doklad.htm</source>
+<stamp>1085454998</stamp>
+
+<posts>2</posts>

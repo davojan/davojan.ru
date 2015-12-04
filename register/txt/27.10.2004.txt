@@ -1,0 +1,8 @@
+<entry>
+<time>18:55</time>
+<subj>Радиопереключатели</subj>
+<text>Вот что у&nbsp;вас ассоциируется со словом сабжа? Я&nbsp;бы вот никогда не догадался обозвать таким словом то, что <a href="http://dyn.gismeteo.ru/cgi-bin/myweather.dll/setup" target="_blank" title="посмотреть в новом окне">умудрились назвать сотрудники небезызвестной службы прогноза погоды</a>.</text>
+<keywords>fun</keywords>
+<stamp>1098874541</stamp>
+
+<posts>36</posts>

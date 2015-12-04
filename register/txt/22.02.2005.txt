@@ -1,0 +1,8 @@
+<entry>
+<time>22:27</time>
+<subj>Ахуи</subj>
+<text>Есть, оказывается, в&nbsp;окошках, такой файл: <code>C:\WINDOWS\system32\ahui.exe</code></text>
+<keywords>fun, windows</keywords>
+<stamp>1109086046</stamp>
+
+<posts>1</posts>

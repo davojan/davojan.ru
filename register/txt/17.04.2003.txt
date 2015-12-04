@@ -1,0 +1,18 @@
+<entry>
+<time>15:44</time>
+<subj>Unix Network Programming</subj>
+<text>Сегодня я совершил свою первую покупку на амазоне. Вернее я только заказал книгу &#171;<a href='http://www.amazon.com/exec/obidos/ASIN/013490012X/104-2112456-8812703' target=_blank>Unix Network Programming</a>&#187;. Думаю, что в руках она у меня появится не раньше, чем через 2-3 недели. Давно её хотел. Как будет &#151; поделюсь впечатлениями.</text>
+<keywords>книги, программирование, unix</keywords>
+<link>http://www.amazon.com</link>
+<descr>Amazon.Com</descr>
+<stamp>1050565484</stamp>
+
+<posts>1</posts>
+<entry>
+<time>15:59</time>
+<subj>Звук во FreeBSD</subj>
+<text>Вчера не без помощи книги вспомнил, как настроить звук во FreeBSD. Оказалось всё просто:<br><ol><li>Конфигурируем ядро:<br><code># cd /sys/i386/conf/<br># cp GENERIC CUSTOM</code><br>добавляем в <code>CUSTOM</code> строчку <code>device pcm</code> и сохраняем<br></li><li>Компилируем ядро:<br><code># cd /usr/src/<br># make kernel KERNCONF=CUSTOM</code><br></li><li>Перезагружаемся&hellip;</li><li>Создаём файл устройства в /dev:<br><code># cd /dev<br># ./MAKEDEV snd0</code><br></li><li>Слушаем музыку :)</li></ol></text>
+<keywords>freebsd, настройка, unix</keywords>
+<stamp>1050566341</stamp>
+
+<posts>0</posts>

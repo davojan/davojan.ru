@@ -1,0 +1,145 @@
+<entry>
+<time>16.02.2004 (16:32)</time>
+<subj>accept</subj>
+<text>во фряк accept не прерывается при сигнале<br>странно всё это</text>
+<stamp>1076923936</stamp>
+<entry>
+<time>18.03.2004 (00:12)</time>
+<subj>Vim</subj>
+<text>Набор используемых мной команд vim<br>акцент на правку конфигов</text>
+<stamp>1079543520</stamp>
+<entry>
+<time>18.03.2004 (00:19)</time>
+<subj>Идеи называния своего багтрэкера</subj>
+<text>unibts<br>abts<br>&hellip;</text>
+<stamp>1079543945</stamp>
+<entry>
+<time>08.04.2005 (17:53)</time>
+<subj>Статья на тему систем контроля версий</subj>
+<text><a href=http://www.bitkeeper.com/>www.bitkeeper.com/</a><br><a href=http://www.perforce.com/>www.perforce.com/</a><br><a href=http://subversion.tigris.org/>subversion.tigris.org/</a> <a href=http://svnbook.red-bean.com/>(книга)</a> <a href="http://esvn.umputun.com/">новый <nobr>клиент</a><br><a href=http://wiki.gnuarch.org/moin.cgi/SubVersionAndCvsComparison>Arch</a><br><a href=http://svk.elixus.org/>SVK</a><br><a href=http://bazaar-ng.org/>bazaar-ng</a><br>cvs:<br><a href=http://www.lincvs.org/>www.lincvs.org</a><br><a href=http://wincvs.org/>wincvs.org</a><br>&hellip;<p><a href="http://dmoz.org/Computers/Software/Configuration_Management/Tools/">полезно</a></nobr></text>
+<stamp>1079543965</stamp>
+<entry>
+<time>18.03.2004 (01:10)</time>
+<subj>Source Navigator</subj>
+<text>Открытие:<br><a href=http://sourcenav.sourceforge.net/>sourcenav.sourceforge.net</a></text>
+<stamp>1079547051</stamp>
+<entry>
+<time>18.03.2004 (01:48)</time>
+<subj>Профилирование</subj>
+<text><a href=http://kprof.sourceforge.net/>kprof</a><br><a href=http://www710.univ-lyon1.fr/%7Eyperret/fnccheck/profiler.html>fnccheck</a><br><a href=http://sourceforge.net/projects/fnccheck/>sourceforge fnccheck</a></text>
+<stamp>1079549314</stamp>
+<entry>
+<time>18.03.2004 (01:54)</time>
+<subj>UML</subj>
+<text><a href=http://uml.sourceforge.net/index.php>Umbrello UML Modeller</a></text>
+<stamp>1079549659</stamp>
+<entry>
+<time>29.03.2004 (21:17)</time>
+<subj>devushke.ru</subj>
+<text>Сеть магазинов различных подарков девушкам.</text>
+<stamp>1080566262</stamp>
+<entry>
+<time>29.03.2004 (22:15)</time>
+<subj>Yandex XML</subj>
+<text>http://help.yandex.ru/xml/faq.xml</text>
+<stamp>1080569710</stamp>
+<entry>
+<time>19.04.2004 (08:54)</time>
+<subj>Свадьба олежки</subj>
+<text><nobr>Откуп<br>Загс<br>Смотровая<br>Гобули<br>Бангок<br>Серпуховская<br>Музыка<br>Тосты<br>Подарок<br>Аля<br>Шурик-свидетель<br>Красивая</nobr> девушка</text>
+<stamp>1082336057</stamp>
+<entry>
+<time>13.05.2004 (19:16)</time>
+<subj>Системы имитационного моделирования</subj>
+<text><a href="http://stratum.ac.ru/rus/stratum/3.0/">Stratum</a><br><a href="http://www.arenasimulation.com/">Arena</a><br><a href="http://www.simulation-modeling.com/">AnyLogic</a><br><a href="http://www.xjtek.ru/anylogic/">AnyLogic.ru</a><p>imitation.ru&nbsp;&#151; свободен</text>
+<stamp>1084433352</stamp>
+<entry>
+<time>21.05.2004 (18:23)</time>
+<subj>Акселераторы PHP</subj>
+<text><a href="http://apc.communityconnect.com/">APC (Alternative PHP Cache)</a><br><a href="http://www.php-accelerator.co.uk/">PHPA (PHP Accelerator)</a><br><a href="http://afterburner.bware.it/cache.htm">afterBURNER*Cache</a></text>
+<stamp>1085135002</stamp>
+<entry>
+<time>22.05.2004 (12:24)</time>
+<subj>Идея&nbsp;&#151; виртуальный консультант в&nbsp;магазине</subj>
+<text>Суть:<br>1. Ведётся полный лог действий посетителей, зашедших на магазин.<br>2. К&nbsp;этому логу есть удобный оперативный доступ у&nbsp;нашего <nobr>сотрудника-оператора.<br>3.</nobr> Оператор по этим логам может сориентироваться&nbsp;&#151; что нужно посетителю и&nbsp;написать ему <nobr>какую-нить</nobr> рекомендацию или другое сообщение, которое поможет его подвести к&nbsp;осуществлению покупки. Причём всё это должно быть не через <nobr>вэб-интерфейс,</nobr> а&nbsp;чере гуи (для оперативности).<br>4. Это сообщение выводится при следующей перезагрузке страницы у&nbsp;посетителя.<br>5. Возможен вариант с&nbsp;обратной связью <nobr>(что-то</nobr> типа чата), но над этим стоит подумать.<p>Цель:<br>1. Повышение удобства магазина: &laquo;умная&raquo; консультация.<br>2. Увеличение вероятности совершения покупки.</text>
+<stamp>1085199857</stamp>
+<entry>
+<time>23.05.2004 (17:50)</time>
+<subj>Кирпич</subj>
+<text>По реке плывёт кирпич<br>Деревянный как стекло<br>Ну и&nbsp;пусть себе плывёт<br>Нам не нужен пенопласт<p>Было лето или утро<br>Или тучи или день<br>Или ветер или вечер<br>Или дождик или тень<br>Было рано или осень<br>Или месяц или пыль<br>То&nbsp;ли завтра, то&nbsp;ли в&nbsp;полдень<br>Мне приснилась эта быль<p>Я, отец, племянник Ади,<br>Братец Юди, братец Чади<br>Дядя мади вшестером<br>На охоту поскакали<br>То&nbsp;ли летом, то&nbsp;ли днём<br>Поскакали, поскакали,<br>поскакали, поскакали,<br>поскакали, поскакали,<br>По горам, по домам,<br>По горам, по домам,<br>По горам, по домам,<br>По горам, по домам.<br>Доскакали до провала<br>Там, где землю разорвало<br>Разделило пополам<p>И было много воздуха<br>И было много света<br>Три <nobr>синих-синих</nobr> озера<br>Малинового цвета<br>Одно из них зелёное<br>Лиловое другое<br>А третье может&nbsp;жёлтое<br>А может голубое<br>Только высохло одно<br>У второго видно дно<br>В третьем не было воды<br>Но&hellip; было много воздуха<br>И было много света<br>Три <nobr>синих-синих</nobr> озера<br>Малинового цвета<p>- Огонь, Адии!<br>- Нет ружья.<br>- Огонь, Юди!<br>- Нет ружья.<br>Нет ружья у&nbsp;братца Чади,<br>Нет ружья у&nbsp;дяди Мади.<br>Есть дубинка у&nbsp;отца,<br>У дубинки два конца<p>Не утка, буйвол!<br>Хороша добыча!<br>У добычи голова бычья!<p>Прошагали в&nbsp;<nobr>долы-дали<br>Три</nobr> деревни увидали<br>В три деревни, в&nbsp;три села<br>Нас дорога привела<br>Первой деревни не было видно<br>Не было видно вторую<br>В третьей&nbsp;&#151; ни сада, ни дома, ни дыма.<br>В третьей&nbsp;&#151; ни дома, ни сада, ни дыма.<br>В третьей деревне&nbsp;&#151; ни дома, ни дыма.<br>Просто&nbsp;&#151; село за горой.<p>Я, отец, племянник Ади,<br>Братец Юди, братец Чади<br>Дядя мади вшестером<br>Пообедать захотели<br>Побежали за котлом<br>Побежали, побежали,<br>побежали, побежали,<br>По углам, по углам,<br>по углам, по углам,<br>Поискали, поискали,<br>Два дырявых отыскали,<br>Третий треснул пополам,<br>Дно по травке покатилось<br>Остальное пригодилось.<p>Рис нашёл племянник Ади,<br>Плов готовил дядя Мади,<br>Разводил огонь <nobr>отец,<br>Чтобы-чтобы-чтобы-чтобы<br>Пообедать</nobr> наконец.<p>Всё тебе приснилось,<br>Такого не бывало,<br>Чтоб по сухому озеру рыба шагала<br>Чтоб небо голубое <nobr>штопали-латали<br>И</nobr> чтоб мальчишки из палки стреляли!<br>Из палки стреляли и&nbsp;в утку попали?!<br>Чтоб палки стреляли&nbsp;&#151; нигде не видали!<br>Чтоб в&nbsp;утку попали&nbsp;&#151; нигде не слыхали!<p>На <nobr>самом-то</nobr> деле<br>Чтоб палки стреляли<br>И мы не видали<br>Но очень хотели<br>И мы не слыхали,<br>Но твёрдо решили.<br>Бабах&nbsp;&#151; и&nbsp;попали<br>И всех накормили&hellip;<p>А из синей синей дали<br>С неба яблоки упали<br>Делим яблоки наши<br>Яблоко старшим, яблоко младшим<br>А третье&nbsp;&#151; тому, кто слушал,<br>А третье&nbsp;&#151; тому, кто слышал,<br>А третье&nbsp;&#151; тому, кто верил в&nbsp;то&hellip;.<br>Было лето или утро&hellip;&hellip;..</text>
+<stamp>1085238550</stamp>
+<entry>
+<time>23.05.2004 (12:12)</time>
+<subj>Идея&nbsp;&#151; описательный &laquo;товар&raquo; в&nbsp;магазине</subj>
+<text>Очередная утренняя муза, пришедшая благодаря лазание по озону :)<br>Вот я&nbsp;подумал: а&nbsp;что, если в&nbsp;нашем магазине продавать книги. У&nbsp;книг есть авторы и&nbsp;издательства. Ну авторов, конечно, можно сделать вендорами, по сути это они и&nbsp;есть. Но не будем заострять сейчас на этом внимания. У&nbsp;авторов и&nbsp;издательств есть <nobr>какие-то</nobr> свои свойства. И&nbsp;естественным было&nbsp;бы давать юзерам ссылки на описания этих объектов.<br>Обобщим&nbsp;&#151; характеристикой товара является некий объект со своим набором свойств. Хотелось&nbsp;бы дать возможность посетителю магазина ознакомиться с&nbsp;этими свойствами поподробнее.<br>Сразу напрашивается невостребованный ещё тип характеристики&nbsp;&#151; ссылка на другой товар. Но проблема в&nbsp;том, что нужные нам объекты товарами не являются.<br>В общем суть идеи&nbsp;&#151; сделать специальный тип товаров и&nbsp;категорий, которые являются не товарами.<br>Но сейчас я&nbsp;уже думаю, что это вряд&nbsp;ли <nobr>где-нибудь</nobr> понадобится, у&nbsp;меня есть другая идея для решения этой проблемы.<br>Но эту я&nbsp;тоже оставлю на заметку, мало&nbsp;ли&nbsp;&#151; может и&nbsp;пригодится <nobr>когда-нибудь.</nobr></text>
+<stamp>1085285528</stamp>
+<entry>
+<time>23.05.2004 (13:32)</time>
+<subj>Идея&nbsp;&#151; продвинутые описания значений</subj>
+<text>Описания значений характеристик нужно сделать более продвинутыми.<br>1. Не ссылаться на описание, а&nbsp;описание должно быть&nbsp;жёстко завязано на данное значение данной характеристики.<br>2. Сделать картинку для этой сущности.<br>3. Выводить все товары (а может и&nbsp;категории) имеющие данное значение характеристики (например&nbsp;&#151; все книги издательства, описание которого мы просматриваем).</text>
+<stamp>1085290330</stamp>
+<entry>
+<time>08.06.2004 (22:48)</time>
+<subj>Неделание</subj>
+<text>Писать левой рукой<br>Носить часы на правой руке</text>
+<stamp>1086523088</stamp>
+<entry>
+<time>09.06.2004 (00:16)</time>
+<subj>PostgreSQL репликация</subj>
+<text><b>Живые проекты:</b><br><a href="http://www.csra.co.jp/~mitani/jpug/pgcluster/en/index.html">PGCluster</a>&nbsp;&#151; самый интересный из замеченных мной вариантов. Единственный <nobr>multi-master.<br><a href="http://gborg.postgresql.org/project/erserver/projdisplay.php">eRServer</a>&nbsp;&#151;</nobr> опенсорсный проект коммерческого репликатора <a href="http://www.erserver.com">eRServer</a>. Насколько я&nbsp;понимаю&nbsp;&#151; самый серьёзный проект. Но <nobr>как-то</nobr> мало <nobr>активности.<br><a href="http://gborg.postgresql.org/project/slony1/projdisplay.php">Slony-I</a>&nbsp;&#151;</nobr> забавное название, наверняка русские делали :) Нынче на стадии 1.0.0 <nobr>beta-testing.</nobr> <nobr>master-to-multi-slaves.</nobr> Не нашёл документации.<p><b>Нечто дохлое:</b><br><a href="http://gborg.postgresql.org/project/pgreplication/projdisplay.php">pgreplication</a>&nbsp;&#151; нечто невразумительное, остановившееся на кривой интергации с&nbsp;PostgreSQL 7.2.<br><a href="http://pgreplicator.sourceforge.net/">pgreplicator</a>&nbsp;&#151; задумывалось как нечто крутое, вроде даже <nobr>что-то</nobr> сделали, но сдохли в&nbsp;конце 2001 г.<br><a href="http://dbbalancer.sourceforge.net/">dbbalancer</a>&nbsp;&#151; то&nbsp;же самое&hellip; Последнее обновление&nbsp;&#151; сентябрь <nobr>2002-го.</nobr> <nobr>Альфа-стадия.</nobr> <nobr>Печально.<p><b>Другое:</b><br><a href="http://gborg.postgresql.org/project/pgreplication/genpage.php?replication_research">Какая-то</nobr> кучка ссылок по теме</a><br><a href="http://gborg.postgresql.org/">GBorg</a>&nbsp;&#151; мегапроект, который хостит проекты многих приблуд для <nobr>Postgre.<br><a href="http://citeseer.ist.psu.edu/330257.html">Postgres-R</a>&nbsp;&#151;</nobr> куча <nobr>какой-то</nobr> теории по репликации.</text>
+<stamp>1086708556</stamp>
+<entry>
+<time>09.06.2004 (12:39)</time>
+<subj>Андрей Лапин</subj>
+<text><a href="http://seanat.narod.ru/audio/2003/lapin-03-01-27/03-01-27-lapin.htm">Сон и&nbsp;осознанность</a><br><a href="http://lev.webzone.ru/moscow/p_x/p_2.html">Соитие без разрядки</a><br><a href="http://www.art-video.ru/cgi-bin/index.cgi?t=go&r=film&rejiser=Андрей%20Лапин">Кино</a><br><a href="http://seanat.narod.ru/texts/2002/lapin_dihat_praktiki.htm">Дыхательные практики</a></text>
+<stamp>1086751499</stamp>
+<entry>
+<time>18.06.2004 (02:14)</time>
+<subj>Стрим по хацкерски</subj>
+<text><nobr>http://www.daemonnews.org/200101/pppoe.html<br>http://www.freebsd.org/doc/ru_RU.KOI8-R/books/handbook/pppoe.html</nobr></text>
+<stamp>1087496088</stamp>
+<entry>
+<time>18.06.2004 (02:16)</time>
+<subj>Вся правда об общаге МЭСИ</subj>
+<text>Устройство<br>Цены<br>Руководство<br>Дебилизм<br>Режим<br>Бельё<br>Столовая<br>Вид из окна</text>
+<stamp>1087496199</stamp>
+<entry>
+<time>14.07.2004 (18:34)</time>
+<subj>Идея по вертелке</subj>
+<text>Поддержка AdWare программ.</text>
+<stamp>1089801268</stamp>
+<entry>
+<time>14.07.2004 (20:42)</time>
+<subj>Программы для сравнения файлов</subj>
+<text><a href=http://directory.google.com/Top/Computers/Software/File_Management/File_Comparison/>Google Catalogue</a></text>
+<stamp>1089808969</stamp>
+<entry>
+<time>27.09.2004 (17:15)</time>
+<subj>Phaselis Rose vs Green Platan</subj>
+<text>Дорога<br>Место<br>Пляж<br>Море<br>Лодки<br>Номер<br>Еда<br>Рыба (рыбный ресторан)<br>Водные горки<br>Анимация<br>Девушки анимации :)<br>Спорт вообще<br>Волейбол<br>Массаж<br>Экскурсии<br>Цены<br>Монополизм</text>
+<stamp>1096276546</stamp>
+<entry>
+<time>02.10.2004 (16:21)</time>
+<subj>Надо патентовать</subj>
+<text>Идея: коврик для туалета со встроенными весами.<br>Замеряет вес тела до и&nbsp;после опорожнения.<br>Показывает разницу.<br>Возможно даже проговаривает разницу, вставляет всякие советы по поводу лишнего веса и&nbsp;т.д.</text>
+<stamp>1096705118</stamp>
+<entry>
+<time>09.10.2004 (13:48)</time>
+<subj>Идея по <nobr>ip-таргетингу</nobr></subj>
+<text>Предоставлять детальную информацию по <nobr>ip-адресу</nobr> через сервис. Т.е. чтобы любой <nobr>веб-программер</nobr> мог в&nbsp;своих скриптах использовать инфу о&nbsp;посетителе по его айпишнику. Для этого написать простенькие API для наиболее распространённых языков. Для пользователей вертелки сделать этот сервис бесплатным.</text>
+<stamp>1097300882</stamp>
+<entry>
+<time>11.10.2004 (20:14)</time>
+<subj>Eclipse</subj>
+<text><a href="http://eclipse.org">главный сайт</a><br><a href="http://eclipse-plugins.info/eclipse/index.jsp">каталог плагинов</a> <nobr><a href="http://eclipse-plugins.2y.net/eclipse/index.jsp">(зеркало)</a><br><a href="http://www.phpeclipse.de/tiki-view_articles.php">php-плагин</a></nobr></text>
+<stamp>1097496868</stamp>
+<entry>
+<time>11.11.2004 (17:10)</time>
+<subj>Идея реалистичной моделирующей стратегии</subj>
+<text>Нечто такое размытое.<br>Суть такова:<br>1. По отдельности составляются как можно более точные экономические и&nbsp;физические модели городов.<br>2. Все эти данные сохраняются на центральном сервере.<br>3. Возможно <nobr>каким-то</nobr> образом вырабатываются рекомендации по оптимизации денежных потоков, постройке объектов.<br>4. В&nbsp;модели можно строить объекты, грубо говоря полностью управлять ею с&nbsp;учётом имеющихся ресурсов, но  в&nbsp;рамках текущего законодательства и&nbsp;смотреть результат.<br>5. Любой человек может зарегистрироваться в&nbsp;системе на центральном сервере и&nbsp;отвечать на кучу вопросов по городу, такую некую глобальную анкету, с&nbsp;помощью которой можно выявить недостатки инфраструктуры города, пожелания человека по обустройству (коммунальному, торговому, транспортному, эстетическому) своего дома/двора/микрорайона/города. С&nbsp;помощью такой анкеты можно также выявить род занятий человека или в&nbsp;какой сфере он&nbsp;бы мог работать наиболее эффективно.<br>6. Должна быть возможность моделировать взаимодействия между городами: импорт/экспорт, транспорт, миграция и&nbsp;т.д.<br>7. Основной принцип всей этой системы&nbsp;&#151; расширяемость. Должна быть возможность создавать новые виды улучшений/действий с&nbsp;помощью не очень сложного макроязыка.<p>Основные компоненты системы:<br>1. Сервер, централизующий всю систему.<br>2. Графический инструмент (типа игра), позволяющий моделировать город и&nbsp;его окружение, а&nbsp;также управлять всей этой моделью.<br>3. К&nbsp;этому инструменту должно прилагаться удобное средство для расширения.<br>4. Сайт, объединяющий участников проекта в&nbsp;сообщества по иерархическому признаку.<br>&hellip;&hellip;</text>
+<stamp>1100164387</stamp>
+<entry>
+<time>02.03.2005 (16:56)</time>
+<subj>Идеи названий вертелки</subj>
+<text>Internet Advertising System: intas, ias<br>adru<br>admega<br>adtotal<br>globalas<br><b>adeffect</b><br>adstat<br>adpro<br>banstat<br><b>adaction</b><br>pradaction&nbsp;&#151; ProfessionalAdvertisingAction<br>admania<br><b>adstream</b><br>adstream<br>potok<br><b>trustad</b><br>adintegrity<br>vertolyot :)<br><b>adalizer</b><br><b>adalizator</b><p><b>adlog</b><br>utilog</text>
+<stamp>1109662624</stamp>

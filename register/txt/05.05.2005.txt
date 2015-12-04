@@ -1,0 +1,6 @@
+<entry>
+<time>01:03</time>
+<subj>Там я&nbsp;побывал</subj>
+<text><center><img src="http://douweosinga.com/projects/visitedcountries/colormap?visited=DZAMBYGEDEPLRUUATR"><br/><br><a href="http://douweosinga.com/projects/visitedcountries">create your own visited countries map</a><br> or <a href="http://www.tonjafabritz.com">vertaling Duits Nederlands</a></center></text>
+<keywords>разное</keywords>
+<stamp>1115226196</stamp>

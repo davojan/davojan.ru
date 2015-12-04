@@ -1,0 +1,12 @@
+<entry>
+<time>20:52</time>
+<subj>Office Update</subj>
+<text>На днях обнаружил, что аналогично службе &laquo;Windows Update&raquo; существует и&nbsp;&laquo;<a href="http://office.microsoft.com/OfficeUpdate/default.aspx" target="_blank" title="в новом окне">Office Update</a>&raquo;, с&nbsp;помощью которой можно ставить последние обновления к&nbsp;MS Office. Воспользовался, доволен&nbsp;&#151; мегаглючный Office 2003, который то и&nbsp;дело норовил испортить файл моего диплома, вроде&nbsp;бы превратился в&nbsp;нормальный софт. Так что тем, кто не знает, рекомендую воспользоваться. Правда есть одно ограничение&nbsp;&#151; чтобы это дело установить, нужно иметь диск, с&nbsp;которого ставился офис.</text>
+<keywords>soft</keywords>
+<stamp>1085057548</stamp>
+<entry>
+<time>21:55</time>
+<subj>Шаблон листов для раздаточных материалов</subj>
+<text>Насколько я&nbsp;понимаю, это хрень с&nbsp;рамочками, сам пока не изучал. Весчь полезная, по любому. <a href="http://www.davojan.ru/files/diplom_forms_a4.zip" title="скачать">Качаем</a>, юзаем и&nbsp;дружно говорим Cathy БОЛЬШОЕ СПАСИБО за предложенную и&nbsp;оказанную помощь :)</text>
+<keywords>диплом</keywords>
+<stamp>1085061336</stamp>

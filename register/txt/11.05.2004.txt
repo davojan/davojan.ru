@@ -1,0 +1,10 @@
+<entry>
+<time>13:02</time>
+<subj>В помощь к диплому — ГОСТ &laquo;СХЕМЫ АЛГОРИТМОВ, ПРОГРАММ ДАННЫХ И СИСТЕМ&raquo;</subj>
+<text>Вот то, чему нас пытались невнятно учить на всяких ПЭИСах в&nbsp;одном небольшом чётком и&nbsp;ясном документе. <br><center><a href="http://alldoc.narod.ru/gost/282/282.html" target="_blank" title="в новом окне">ГОСТ 19.701&#150;90 (ИСО 5807&#150;85)<br>Единая система программной документации<br>СХЕМЫ АЛГОРИТМОВ, ПРОГРАММ ДАННЫХ И&nbsp;СИСТЕМ<br>Условные обозначения и&nbsp;правила выполнения<br>Unified system for program documentation. Data, program and system flowcharts, program network charts and system resources charts. Documentation symbols and conventions for flowcharting</a></center><br>Всем пишущим у&nbsp;нас диплом смотреть обязательно. Может оказаться хорошим подспорьем.<br>Спасибо, bmp.</text>
+<keywords>диплом</keywords>
+<link>http://alldoc.narod.ru/gost/282/282.html</link>
+<descr>ГОСТ 19.701-90 (ISO 5807-85)</descr>
+<stamp>1084251744</stamp>
+
+<posts>1</posts>

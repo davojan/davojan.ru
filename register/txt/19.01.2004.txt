@@ -1,0 +1,8 @@
+<entry>
+<time>14:54</time>
+<subj>Неожиданный результат:</subj>
+<text><div style="text-align: center;"><table border=0 width=300 cellspacing=1 cellpadding=5 bgcolor=#404040><tr><td bgcolor=#FFFFFF align=center><big><big><font color=#FF0000><b>Я Менеджер!</b></font></big></big></td></tr><tr><td align=left bgcolor=#FFFFFF>Изворотливая тварь ! Все вы умеете, а&nbsp;особенно деньги зарабатывать. Ловкости вам не занимать. На фиг вы вообще этот тест проходили?</td></tr><tr><td align=center bgcolor=#002080><a href="http://www.aeterna.ru/cgi-bin/maina.cgi?page=test0&link=000000:000003:0001TP:000005"><big><font color=#FFFFFF>Какая профессия вам&nbsp;бы подошла?</font></big></a></td></tr></table></div></text>
+<keywords>разное</keywords>
+<stamp>1074498870</stamp>
+
+<posts>1</posts>

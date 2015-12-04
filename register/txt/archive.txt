@@ -1,0 +1,472 @@
+<entry>
+<subj>Архив за 2005 год</subj>
+<text>
+<table width=100%><tr><td><span class=sel><b>&nbsp;Январь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c3><a href=02.01.2005><b>2</b></a></td>
+</tr>
+<tr><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c2><a href=08.01.2005><b>8</b></a></td><td class=c3><a href=09.01.2005><b>9</b></a></td>
+</tr>
+<tr><td class=c2><a href=10.01.2005><b>10</b></a></td><td class=c2>11</td><td class=c2>12</td><td class=c2><a href=13.01.2005><b>13</b></a></td><td class=c2>14</td><td class=c2>15</td><td class=c3><a href=16.01.2005><b>16</b></a></td>
+</tr>
+<tr><td class=c2><a href=17.01.2005><b>17</b></a></td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c3>23</td>
+</tr>
+<tr><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c3>30</td>
+</tr>
+<tr><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Февраль&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c3>6</td>
+</tr>
+<tr><td class=c2>7</td><td class=c2><a href=08.02.2005><b>8</b></a></td><td class=c2><a href=09.02.2005><b>9</b></a></td><td class=c2><a href=10.02.2005><b>10</b></a></td><td class=c2><a href=11.02.2005><b>11</b></a></td><td class=c2><a href=12.02.2005><b>12</b></a></td><td class=c3>13</td>
+</tr>
+<tr><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c3><a href=20.02.2005><b>20</b></a></td>
+</tr>
+<tr><td class=c2>21</td><td class=c2><a href=22.02.2005><b>22</b></a></td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c3>27</td>
+</tr>
+<tr><td class=c2>28</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Март&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2><a href=03.03.2005><b>3</b></a></td><td class=c2>4</td><td class=c2>5</td><td class=c3>6</td>
+</tr>
+<tr><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2><a href=10.03.2005><b>10</b></a></td><td class=c2>11</td><td class=c2>12</td><td class=c3>13</td>
+</tr>
+<tr><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c3>20</td>
+</tr>
+<tr><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c3>27</td>
+</tr>
+<tr><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Апрель&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c3>3</td>
+</tr>
+<tr><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c2><a href=08.04.2005><b>8</b></a></td><td class=c2>9</td><td class=c3>10</td>
+</tr>
+<tr><td class=c2>11</td><td class=c2><a href=12.04.2005><b>12</b></a></td><td class=c2>13</td><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c3>17</td>
+</tr>
+<tr><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c3>24</td>
+</tr>
+<tr><td class=c2>25</td><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Май&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>1</td>
+</tr>
+<tr><td class=c2>2</td><td class=c2>3</td><td class=c2><a href=04.05.2005><b>4</b></a></td><td class=c2><a href=05.05.2005><b>5</b></a></td><td class=c2>6</td><td class=c2>7</td><td class=c3>8</td>
+</tr>
+<tr><td class=c2>9</td><td class=c2>10</td><td class=c2><a href=11.05.2005><b>11</b></a></td><td class=c2>12</td><td class=c2>13</td><td class=c2>14</td><td class=c3>15</td>
+</tr>
+<tr><td class=c2>16</td><td class=c2>17</td><td class=c2><a href=18.05.2005><b>18</b></a></td><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c3>22</td>
+</tr>
+<tr><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c2><a href=27.05.2005><b>27</b></a></td><td class=c2>28</td><td class=c3>29</td>
+</tr>
+<tr><td class=c2>30</td><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Июнь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2><a href=03.06.2005><b>3</b></a></td><td class=c2>4</td><td class=c3>5</td>
+</tr>
+<tr><td class=c2>6</td><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c3>12</td>
+</tr>
+<tr><td class=c2>13</td><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c3>19</td>
+</tr>
+<tr><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c3>26</td>
+</tr>
+<tr><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td></tr><tr><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td></tr><tr></table>
+</text><entry>
+<subj>Архив за 2004 год</subj>
+<text>
+<table width=100%><tr><td><span class=sel><b>&nbsp;Январь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c3>4</td>
+</tr>
+<tr><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c2><a href=08.01.2004><b>8</b></a></td><td class=c2>9</td><td class=c2>10</td><td class=c3>11</td>
+</tr>
+<tr><td class=c2><a href=12.01.2004><b>12</b></a></td><td class=c2>13</td><td class=c2>14</td><td class=c2><a href=15.01.2004><b>15</b></a></td><td class=c2><a href=16.01.2004><b>16</b></a></td><td class=c2>17</td><td class=c3>18</td>
+</tr>
+<tr><td class=c2><a href=19.01.2004><b>19</b></a></td><td class=c2><a href=20.01.2004><b>20</b></a></td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c3>25</td>
+</tr>
+<tr><td class=c2>26</td><td class=c2><a href=27.01.2004><b>27</b></a></td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2><a href=31.01.2004><b>31</b></a></td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Февраль&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>1</td>
+</tr>
+<tr><td class=c2><a href=02.02.2004><b>2</b></a></td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c3>8</td>
+</tr>
+<tr><td class=c2><a href=09.02.2004><b>9</b></a></td><td class=c2>10</td><td class=c2>11</td><td class=c2><a href=12.02.2004><b>12</b></a></td><td class=c2>13</td><td class=c2>14</td><td class=c3>15</td>
+</tr>
+<tr><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c3>22</td>
+</tr>
+<tr><td class=c2>23</td><td class=c2><a href=24.02.2004><b>24</b></a></td><td class=c2>25</td><td class=c2><a href=26.02.2004><b>26</b></a></td><td class=c2>27</td><td class=c2><a href=28.02.2004><b>28</b></a></td><td class=c3>29</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Март&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c3>7</td>
+</tr>
+<tr><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c2><a href=12.03.2004><b>12</b></a></td><td class=c2><a href=13.03.2004><b>13</b></a></td><td class=c3><a href=14.03.2004><b>14</b></a></td>
+</tr>
+<tr><td class=c2><a href=15.03.2004><b>15</b></a></td><td class=c2>16</td><td class=c2><a href=17.03.2004><b>17</b></a></td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c3><a href=21.03.2004><b>21</b></a></td>
+</tr>
+<tr><td class=c2><a href=22.03.2004><b>22</b></a></td><td class=c2><a href=23.03.2004><b>23</b></a></td><td class=c2>24</td><td class=c2><a href=25.03.2004><b>25</b></a></td><td class=c2><a href=26.03.2004><b>26</b></a></td><td class=c2>27</td><td class=c3>28</td>
+</tr>
+<tr><td class=c2>29</td><td class=c2>30</td><td class=c2><a href=31.03.2004><b>31</b></a></td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Апрель&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2><a href=01.04.2004><b>1</b></a></td><td class=c2>2</td><td class=c2><a href=03.04.2004><b>3</b></a></td><td class=c3><a href=04.04.2004><b>4</b></a></td>
+</tr>
+<tr><td class=c2><a href=05.04.2004><b>5</b></a></td><td class=c2><a href=06.04.2004><b>6</b></a></td><td class=c2>7</td><td class=c2><a href=08.04.2004><b>8</b></a></td><td class=c2><a href=09.04.2004><b>9</b></a></td><td class=c2><a href=10.04.2004><b>10</b></a></td><td class=c3><a href=11.04.2004><b>11</b></a></td>
+</tr>
+<tr><td class=c2><a href=12.04.2004><b>12</b></a></td><td class=c2>13</td><td class=c2><a href=14.04.2004><b>14</b></a></td><td class=c2><a href=15.04.2004><b>15</b></a></td><td class=c2><a href=16.04.2004><b>16</b></a></td><td class=c2>17</td><td class=c3><a href=18.04.2004><b>18</b></a></td>
+</tr>
+<tr><td class=c2><a href=19.04.2004><b>19</b></a></td><td class=c2><a href=20.04.2004><b>20</b></a></td><td class=c2><a href=21.04.2004><b>21</b></a></td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c3>25</td>
+</tr>
+<tr><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2><a href=29.04.2004><b>29</b></a></td><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Май&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c3><a href=02.05.2004><b>2</b></a></td>
+</tr>
+<tr><td class=c2>3</td><td class=c2>4</td><td class=c2><a href=05.05.2004><b>5</b></a></td><td class=c2>6</td><td class=c2><a href=07.05.2004><b>7</b></a></td><td class=c2><a href=08.05.2004><b>8</b></a></td><td class=c3><a href=09.05.2004><b>9</b></a></td>
+</tr>
+<tr><td class=c2><a href=10.05.2004><b>10</b></a></td><td class=c2><a href=11.05.2004><b>11</b></a></td><td class=c2>12</td><td class=c2><a href=13.05.2004><b>13</b></a></td><td class=c2><a href=14.05.2004><b>14</b></a></td><td class=c2><a href=15.05.2004><b>15</b></a></td><td class=c3><a href=16.05.2004><b>16</b></a></td>
+</tr>
+<tr><td class=c2>17</td><td class=c2><a href=18.05.2004><b>18</b></a></td><td class=c2><a href=19.05.2004><b>19</b></a></td><td class=c2><a href=20.05.2004><b>20</b></a></td><td class=c2><a href=21.05.2004><b>21</b></a></td><td class=c2><a href=22.05.2004><b>22</b></a></td><td class=c3><a href=23.05.2004><b>23</b></a></td>
+</tr>
+<tr><td class=c2><a href=24.05.2004><b>24</b></a></td><td class=c2><a href=25.05.2004><b>25</b></a></td><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c3>30</td>
+</tr>
+<tr><td class=c2><a href=31.05.2004><b>31</b></a></td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Июнь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2><a href=02.06.2004><b>2</b></a></td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c3>6</td>
+</tr>
+<tr><td class=c2>7</td><td class=c2>8</td><td class=c2><a href=09.06.2004><b>9</b></a></td><td class=c2><a href=10.06.2004><b>10</b></a></td><td class=c2>11</td><td class=c2>12</td><td class=c3>13</td>
+</tr>
+<tr><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2><a href=18.06.2004><b>18</b></a></td><td class=c2>19</td><td class=c3>20</td>
+</tr>
+<tr><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c3><a href=27.06.2004><b>27</b></a></td>
+</tr>
+<tr><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Июль&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c3>4</td>
+</tr>
+<tr><td class=c2>5</td><td class=c2><a href=06.07.2004><b>6</b></a></td><td class=c2>7</td><td class=c2>8</td><td class=c2><a href=09.07.2004><b>9</b></a></td><td class=c2>10</td><td class=c3>11</td>
+</tr>
+<tr><td class=c2>12</td><td class=c2>13</td><td class=c2><a href=14.07.2004><b>14</b></a></td><td class=c2><a href=15.07.2004><b>15</b></a></td><td class=c2>16</td><td class=c2>17</td><td class=c3>18</td>
+</tr>
+<tr><td class=c2><a href=19.07.2004><b>19</b></a></td><td class=c2>20</td><td class=c2>21</td><td class=c2><a href=22.07.2004><b>22</b></a></td><td class=c2>23</td><td class=c2>24</td><td class=c3>25</td>
+</tr>
+<tr><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>31</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Август&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>1</td>
+</tr>
+<tr><td class=c2><a href=02.08.2004><b>2</b></a></td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2><a href=07.08.2004><b>7</b></a></td><td class=c3>8</td>
+</tr>
+<tr><td class=c2>9</td><td class=c2>10</td><td class=c2><a href=11.08.2004><b>11</b></a></td><td class=c2>12</td><td class=c2>13</td><td class=c2><a href=14.08.2004><b>14</b></a></td><td class=c3><a href=15.08.2004><b>15</b></a></td>
+</tr>
+<tr><td class=c2><a href=16.08.2004><b>16</b></a></td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c3>22</td>
+</tr>
+<tr><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2><a href=26.08.2004><b>26</b></a></td><td class=c2>27</td><td class=c2>28</td><td class=c3>29</td>
+</tr>
+<tr><td class=c2>30</td><td class=c2><a href=31.08.2004><b>31</b></a></td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Сентябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2><a href=02.09.2004><b>2</b></a></td><td class=c2>3</td><td class=c2>4</td><td class=c3><a href=05.09.2004><b>5</b></a></td>
+</tr>
+<tr><td class=c2>6</td><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c3>12</td>
+</tr>
+<tr><td class=c2>13</td><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c3>19</td>
+</tr>
+<tr><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2><a href=24.09.2004><b>24</b></a></td><td class=c2>25</td><td class=c3><a href=26.09.2004><b>26</b></a></td>
+</tr>
+<tr><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c2><a href=30.09.2004><b>30</b></a></td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Октябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2><a href=01.10.2004><b>1</b></a></td><td class=c2><a href=02.10.2004><b>2</b></a></td><td class=c3>3</td>
+</tr>
+<tr><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c2>8</td><td class=c2><a href=09.10.2004><b>9</b></a></td><td class=c3>10</td>
+</tr>
+<tr><td class=c2>11</td><td class=c2>12</td><td class=c2><a href=13.10.2004><b>13</b></a></td><td class=c2><a href=14.10.2004><b>14</b></a></td><td class=c2>15</td><td class=c2>16</td><td class=c3>17</td>
+</tr>
+<tr><td class=c2>18</td><td class=c2>19</td><td class=c2><a href=20.10.2004><b>20</b></a></td><td class=c2>21</td><td class=c2><a href=22.10.2004><b>22</b></a></td><td class=c2>23</td><td class=c3>24</td>
+</tr>
+<tr><td class=c2>25</td><td class=c2>26</td><td class=c2><a href=27.10.2004><b>27</b></a></td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c3>31</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Ноябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c3>7</td>
+</tr>
+<tr><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c2>12</td><td class=c2>13</td><td class=c3>14</td>
+</tr>
+<tr><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c3>21</td>
+</tr>
+<tr><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2><a href=25.11.2004><b>25</b></a></td><td class=c2>26</td><td class=c2>27</td><td class=c3>28</td>
+</tr>
+<tr><td class=c2>29</td><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Декабрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c3>5</td>
+</tr>
+<tr><td class=c2>6</td><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c3>12</td>
+</tr>
+<tr><td class=c2>13</td><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c3>19</td>
+</tr>
+<tr><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c3>26</td>
+</tr>
+<tr><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c2><a href=30.12.2004><b>30</b></a></td><td class=c2><a href=31.12.2004><b>31</b></a></td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr></table>
+</text><entry>
+<subj>Архив за 2003 год</subj>
+<text>
+<table width=100%><tr><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Апрель&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c3>6</td>
+</tr>
+<tr><td class=c2><a href=07.04.2003><b>7</b></a></td><td class=c2><a href=08.04.2003><b>8</b></a></td><td class=c2><a href=09.04.2003><b>9</b></a></td><td class=c2><a href=10.04.2003><b>10</b></a></td><td class=c2><a href=11.04.2003><b>11</b></a></td><td class=c2><a href=12.04.2003><b>12</b></a></td><td class=c3>13</td>
+</tr>
+<tr><td class=c2><a href=14.04.2003><b>14</b></a></td><td class=c2><a href=15.04.2003><b>15</b></a></td><td class=c2><a href=16.04.2003><b>16</b></a></td><td class=c2><a href=17.04.2003><b>17</b></a></td><td class=c2>18</td><td class=c2><a href=19.04.2003><b>19</b></a></td><td class=c3><a href=20.04.2003><b>20</b></a></td>
+</tr>
+<tr><td class=c2><a href=21.04.2003><b>21</b></a></td><td class=c2><a href=22.04.2003><b>22</b></a></td><td class=c2><a href=23.04.2003><b>23</b></a></td><td class=c2>24</td><td class=c2><a href=25.04.2003><b>25</b></a></td><td class=c2>26</td><td class=c3><a href=27.04.2003><b>27</b></a></td>
+</tr>
+<tr><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Май&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2><a href=02.05.2003><b>2</b></a></td><td class=c2>3</td><td class=c3>4</td>
+</tr>
+<tr><td class=c2><a href=05.05.2003><b>5</b></a></td><td class=c2><a href=06.05.2003><b>6</b></a></td><td class=c2><a href=07.05.2003><b>7</b></a></td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c3>11</td>
+</tr>
+<tr><td class=c2><a href=12.05.2003><b>12</b></a></td><td class=c2><a href=13.05.2003><b>13</b></a></td><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2><a href=17.05.2003><b>17</b></a></td><td class=c3>18</td>
+</tr>
+<tr><td class=c2>19</td><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c3>25</td>
+</tr>
+<tr><td class=c2><a href=26.05.2003><b>26</b></a></td><td class=c2><a href=27.05.2003><b>27</b></a></td><td class=c2>28</td><td class=c2>29</td><td class=c2>30</td><td class=c2>31</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Июнь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>1</td>
+</tr>
+<tr><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c2>7</td><td class=c3>8</td>
+</tr>
+<tr><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c2>12</td><td class=c2>13</td><td class=c2><a href=14.06.2003><b>14</b></a></td><td class=c3>15</td>
+</tr>
+<tr><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2><a href=19.06.2003><b>19</b></a></td><td class=c2>20</td><td class=c2>21</td><td class=c3>22</td>
+</tr>
+<tr><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c3>29</td>
+</tr>
+<tr><td class=c2>30</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Июль&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c3>6</td>
+</tr>
+<tr><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c2>12</td><td class=c3>13</td>
+</tr>
+<tr><td class=c2>14</td><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c3>20</td>
+</tr>
+<tr><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c3><a href=27.07.2003><b>27</b></a></td>
+</tr>
+<tr><td class=c2><a href=28.07.2003><b>28</b></a></td><td class=c2><a href=29.07.2003><b>29</b></a></td><td class=c2>30</td><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Август&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2><a href=01.08.2003><b>1</b></a></td><td class=c2>2</td><td class=c3>3</td>
+</tr>
+<tr><td class=c2>4</td><td class=c2><a href=05.08.2003><b>5</b></a></td><td class=c2><a href=06.08.2003><b>6</b></a></td><td class=c2><a href=07.08.2003><b>7</b></a></td><td class=c2><a href=08.08.2003><b>8</b></a></td><td class=c2>9</td><td class=c3>10</td>
+</tr>
+<tr><td class=c2>11</td><td class=c2><a href=12.08.2003><b>12</b></a></td><td class=c2><a href=13.08.2003><b>13</b></a></td><td class=c2>14</td><td class=c2><a href=15.08.2003><b>15</b></a></td><td class=c2>16</td><td class=c3>17</td>
+</tr>
+<tr><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c2><a href=21.08.2003><b>21</b></a></td><td class=c2><a href=22.08.2003><b>22</b></a></td><td class=c2>23</td><td class=c3>24</td>
+</tr>
+<tr><td class=c2><a href=25.08.2003><b>25</b></a></td><td class=c2><a href=26.08.2003><b>26</b></a></td><td class=c2><a href=27.08.2003><b>27</b></a></td><td class=c2><a href=28.08.2003><b>28</b></a></td><td class=c2>29</td><td class=c2>30</td><td class=c3>31</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Сентябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2><a href=05.09.2003><b>5</b></a></td><td class=c2><a href=06.09.2003><b>6</b></a></td><td class=c3>7</td>
+</tr>
+<tr><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2><a href=11.09.2003><b>11</b></a></td><td class=c2><a href=12.09.2003><b>12</b></a></td><td class=c2>13</td><td class=c3>14</td>
+</tr>
+<tr><td class=c2>15</td><td class=c2><a href=16.09.2003><b>16</b></a></td><td class=c2><a href=17.09.2003><b>17</b></a></td><td class=c2><a href=18.09.2003><b>18</b></a></td><td class=c2>19</td><td class=c2>20</td><td class=c3>21</td>
+</tr>
+<tr><td class=c2>22</td><td class=c2><a href=23.09.2003><b>23</b></a></td><td class=c2><a href=24.09.2003><b>24</b></a></td><td class=c2>25</td><td class=c2>26</td><td class=c2>27</td><td class=c3>28</td>
+</tr>
+<tr><td class=c2><a href=29.09.2003><b>29</b></a></td><td class=c2><a href=30.09.2003><b>30</b></a></td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr><td><span class=sel><b>&nbsp;Октябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c2><a href=02.10.2003><b>2</b></a></td><td class=c2><a href=03.10.2003><b>3</b></a></td><td class=c2>4</td><td class=c3>5</td>
+</tr>
+<tr><td class=c2><a href=06.10.2003><b>6</b></a></td><td class=c2>7</td><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2><a href=11.10.2003><b>11</b></a></td><td class=c3><a href=12.10.2003><b>12</b></a></td>
+</tr>
+<tr><td class=c2>13</td><td class=c2>14</td><td class=c2>15</td><td class=c2><a href=16.10.2003><b>16</b></a></td><td class=c2>17</td><td class=c2>18</td><td class=c3>19</td>
+</tr>
+<tr><td class=c2>20</td><td class=c2>21</td><td class=c2>22</td><td class=c2>23</td><td class=c2><a href=24.10.2003><b>24</b></a></td><td class=c2>25</td><td class=c3>26</td>
+</tr>
+<tr><td class=c2>27</td><td class=c2><a href=28.10.2003><b>28</b></a></td><td class=c2>29</td><td class=c2><a href=30.10.2003><b>30</b></a></td><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Ноябрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>1</td><td class=c3>2</td>
+</tr>
+<tr><td class=c2><a href=03.11.2003><b>3</b></a></td><td class=c2><a href=04.11.2003><b>4</b></a></td><td class=c2><a href=05.11.2003><b>5</b></a></td><td class=c2><a href=06.11.2003><b>6</b></a></td><td class=c2><a href=07.11.2003><b>7</b></a></td><td class=c2><a href=08.11.2003><b>8</b></a></td><td class=c3><a href=09.11.2003><b>9</b></a></td>
+</tr>
+<tr><td class=c2><a href=10.11.2003><b>10</b></a></td><td class=c2><a href=11.11.2003><b>11</b></a></td><td class=c2><a href=12.11.2003><b>12</b></a></td><td class=c2><a href=13.11.2003><b>13</b></a></td><td class=c2><a href=14.11.2003><b>14</b></a></td><td class=c2><a href=15.11.2003><b>15</b></a></td><td class=c3><a href=16.11.2003><b>16</b></a></td>
+</tr>
+<tr><td class=c2><a href=17.11.2003><b>17</b></a></td><td class=c2><a href=18.11.2003><b>18</b></a></td><td class=c2><a href=19.11.2003><b>19</b></a></td><td class=c2><a href=20.11.2003><b>20</b></a></td><td class=c2><a href=21.11.2003><b>21</b></a></td><td class=c2><a href=22.11.2003><b>22</b></a></td><td class=c3>23</td>
+</tr>
+<tr><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c2>27</td><td class=c2>28</td><td class=c2>29</td><td class=c3>30</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td><td><span class=sel><b>&nbsp;Декабрь&nbsp;</b></span><table cellspacing=1 cellpadding=2 border=0 class=frm>
+<tr>
+<td class=c1><b>Пн</b></td><td class=c1><b>Вт</b></td><td class=c1><b>Ср</b></td><td class=c1><b>Чт</b></td><td class=c1><b>Пт</b></td><td class=c1><b>Сб</b></td><td class=c1><b><font color=red>Вс</font></b></td>
+</tr>
+<tr>
+<td class=c2>1</td><td class=c2>2</td><td class=c2>3</td><td class=c2>4</td><td class=c2>5</td><td class=c2>6</td><td class=c3>7</td>
+</tr>
+<tr><td class=c2>8</td><td class=c2>9</td><td class=c2>10</td><td class=c2>11</td><td class=c2>12</td><td class=c2>13</td><td class=c3>14</td>
+</tr>
+<tr><td class=c2>15</td><td class=c2>16</td><td class=c2>17</td><td class=c2>18</td><td class=c2>19</td><td class=c2>20</td><td class=c3>21</td>
+</tr>
+<tr><td class=c2>22</td><td class=c2>23</td><td class=c2>24</td><td class=c2>25</td><td class=c2>26</td><td class=c2><a href=27.12.2003><b>27</b></a></td><td class=c3>28</td>
+</tr>
+<tr><td class=c2>29</td><td class=c2>30</td><td class=c2>31</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+<tr><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c2>&nbsp;</td><td class=c3>&nbsp;</td>
+</tr>
+</table>&nbsp;</td></tr><tr></table>
+</text>

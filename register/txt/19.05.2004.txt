@@ -1,0 +1,8 @@
+<entry>
+<time>13:52</time>
+<subj>И&nbsp;снова новости про диплом</subj>
+<text>Хотя уже не совсем новости, но всё же лучше поздно, чем никогда. Изменились:<br><a href="http://www.davojan.ru/files/diplom_title.zip" title="скачать">Форма титульного листа</a><br><a href="http://www.davojan.ru/files/diplom_zadanie.zip" title="скачать">Форма задания по дипломному проекту</a><br>Качаем&hellip; Меняем&hellip;</text>
+<keywords>диплом</keywords>
+<stamp>1084945950</stamp>
+
+<posts>2</posts>

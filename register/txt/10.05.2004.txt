@@ -1,0 +1,8 @@
+<entry>
+<time>19:02</time>
+<subj>Слабо?</subj>
+<text>Ленар вот загадку загадал:<br>Одна кочерга&hellip;<br>Две кочерги&hellip;<br>Три кочерги&hellip;<br>Четыре кочерги&hellip;<br>Пять ???</text>
+<keywords>язык</keywords>
+<stamp>1084186941</stamp>
+
+<posts>6</posts>

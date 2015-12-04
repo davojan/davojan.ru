@@ -1,0 +1,7 @@
+<entry>
+<time>12:53</time>
+<subj>Приехал…</subj>
+<text>Мда&hellip; ну и погодка тут у вас :( &hellip;</text>
+<keywords>погода, георгиевск</keywords>
+<posts>3</posts>
+<stamp>1061441599</stamp>

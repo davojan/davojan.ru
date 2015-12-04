@@ -1,0 +1,23 @@
+<entry>
+<time>18:02</time>
+<subj>Допуск к&nbsp;экзаменам</subj>
+<text>Сегодня была очередная экзекуция у&nbsp;Смирновой&nbsp;Г.&nbsp;Н. по ПСЭДО. Удачнее, чем в&nbsp;прошлый раз, когда она нас конкретно помучала и&nbsp;не приняла ни одной лабораторной. Сегодня по крайней мере мы сдали первую лабу, вторую она сказала переделать, а&nbsp;третью&nbsp;&#151; доделать. По крайней мере мы (я, Олежка и&nbsp;Антон) были вычеркнуты из списка недопущенных к&nbsp;экзаменам, за что огромное спасибо преподавателю.<br>Худшее ещё впереди&hellip; :)</text>
+<keywords>учёба, сессия, экзамены, смирнова</keywords>
+<posts>2</posts>
+<stamp>1068030122</stamp>
+<entry>
+<time>18:10</time>
+<subj>Кошмары</subj>
+<text>Последнее время со мной происходит странное. Я уже три дня подряд вижу (помню) сны по утрам, причём два из них были кошмары, которые я помню очень чётко, а третий &#151; не кошмар, но тоже какая-то непрятная гадость. Я вообще сны редко вижу, а кошмары и вовсе уже пару лет не видал. Я вот думаю &#151; может рассказывать свои кошмары тут? хоть какая-то польза от них будет. Там ведь почти детективные истории. Как решу &#151; скажу.</text>
+<keywords>сон, кошмары</keywords>
+<stamp>1068030633</stamp>
+
+<posts>1</posts>
+<entry>
+<time>22:27</time>
+<subj>Как удобно формировать структуры/пакеты переменной длины</subj>
+<text>Только что напоролся на форуме opennet.ru на полезный топик. Автор вопроса, сам того, видимо, не желая, пришёл к&nbsp;обнаружению <nobr>глобально-полезного</nobr> метода формирования структур с&nbsp;данными переменной длины:<br><code><br>&nbsp;&nbsp;&nbsp;<b>struct</b>&nbsp;var_data&nbsp;{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>usnigned</b>&nbsp;data_id;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>//&nbsp;неважно,&nbsp;что-нибудь,&nbsp;сколько&nbsp;угодно&nbsp;полей</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>usnigned</b>&nbsp;data_length;&nbsp;<i>//&nbsp;длина&nbsp;данных</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>char</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data[0];&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>//&nbsp;сами&nbsp;данные&nbsp;переменной&nbsp;длины</i><br>&nbsp;&nbsp;&nbsp;}<br><i>//&nbsp;аккуратно&nbsp;выделяем&nbsp;память&nbsp;и&nbsp;заполняем</i><br>&nbsp;&nbsp;&nbsp;<b>char</b>*&nbsp;some_string&nbsp;=&nbsp;&quot;some&nbsp;string&quot;;<br>&nbsp;&nbsp;&nbsp;<b>int</b>&nbsp;len&nbsp;=&nbsp;strlen&nbsp;(some_string)&nbsp;+&nbsp;1;<br>&nbsp;&nbsp;&nbsp;var_data&nbsp;*data_to_send&nbsp;=&nbsp;(var&nbsp;data*)&nbsp;malloc&nbsp;(sizeof&nbsp;(var_data)&nbsp;+&nbsp;len);<br>&nbsp;&nbsp;&nbsp;data_to_send->data_length&nbsp;=&nbsp;len;<br>&nbsp;&nbsp;&nbsp;memmove&nbsp;(data_to_send->data,&nbsp;some_string,&nbsp;len);<br></code><br>Сформированную таким образом структуру <code>data_to_send</code> удобно передавать по сети. Причём в&nbsp;<code>data</code> можно засунуть всё, что угодно (только не указатели), а&nbsp;потом легко распаковать на принимающей стороне. Суть в&nbsp;том, что не нужно сильно мудрить с&nbsp;придумыванием протокола передачи, можно просто передать такую структуру по UDP или T/TCP, например, и&nbsp;тут&nbsp;же превратить сырые данные в&nbsp;тип var_data, с&nbsp;которым легко работать.<br>Важно учесть такие ограничения: в&nbsp;структуре может быть только <b>одно</b> такое поле и&nbsp;оно должно быть <b>последним</b> в&nbsp;объявлении.<br>Я и&nbsp;раньше встречал использование такой фичи структур в&nbsp;сях, но не приходило в&nbsp;голову, что это можно так удобно использовать для передачи по сети.<br>Сказать по правде, такие хакерские приёмы могут привести к&nbsp;нехорошим вещам, типа переполнений буфера, если не быть предельно аккуратным.</text>
+<keywords>программирование, c&c++</keywords>
+<source>http://www.opennet.ru/openforum/vsluhforumID9/2244.html</source>
+<posts>5</posts>
+<stamp>1068046073</stamp>

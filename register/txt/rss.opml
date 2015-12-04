@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<opml version="1.0">
+<head>
+<title>Дневник Давида RSS feed list</title>
+<dateCreated>2004-01-08</dateCreated>
+<ownerName>Davojan</ownerName>
+<ownerEmail>davojan@mail.ru</ownerEmail>
+</head>
+<body>
+<outline
+    id="0"
+    text="ZoRDiN.ArJ"
+    description="ZoRDiN.ArJ"
+    htmlUrl="http://www.zordin.ru/"
+    xmlUrl="http://zordin.ru/txt/export.xml"
+/>
+</body>
+</opml>

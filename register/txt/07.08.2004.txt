@@ -1,0 +1,12 @@
+<entry>
+<time>15:20</time>
+<subj>Град</subj>
+<text>Давно я&nbsp;такого не видел. Тут у&nbsp;меня град во всю хлещет. А&nbsp;синоптики вроде обещали хорошую погоду. Приличные такие льдинки. Не завидую тем, кто сейчас на улице.</text>
+<keywords>погода</keywords>
+<stamp>1091863238</stamp>
+<entry>
+<time>15:39</time>
+<subj>Второй магазин&nbsp;&#151; проекторы</subj>
+<text>Буквально совсем недавно открыли ещё один в&nbsp;рамках сети, теперь уже <a href="http://www.uti-projector.ru" target="_blank" title="в новом окне">магазин по продаже проекторов <nobr><b>www.uti-projector.ru</b></a>.</nobr> В&nbsp;общем работа кипит у&nbsp;бурлит :) Милости просим!</text>
+<keywords>работа</keywords>
+<stamp>1091864381</stamp>

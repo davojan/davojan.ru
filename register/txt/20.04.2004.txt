@@ -1,0 +1,8 @@
+<entry>
+<time>21:41</time>
+<subj>Вот такой вот <nobr>я <nobr>мега-логичный</nobr></nobr> :)</subj>
+<text><center><table border=0 width=300 cellspacing=1 cellpadding=5 bgcolor=#404040><tr><td bgcolor=#FFFFFF align=center><big><big><font color=#FF0000><b>Я Решил 12 из 12!</b></font></big></big></td></tr><tr><td align=left bgcolor=#FFFFFF>Неужели вам нужно еще одно подтверждение, что логика это ваше призвание? Или решили шокировать своих друЖЖков?:)</td></tr><tr><td align=center bgcolor=#002080><a href="http://www.aeterna.ru/cgi-bin/maina.cgi?page=test0&link=000000:000003:0003RK:000004"><big><font color=#FFFFFF>Проверьте свою Логику!</font></big></a></td></tr></table></center></text>
+<keywords>разное</keywords>
+<stamp>1082468480</stamp>
+
+<posts>4</posts>
