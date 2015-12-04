@@ -1,6 +1,5 @@
 +++
 date = "2015-11-16T23:04:51+03:00"
-draft = true
 title = "Обо мне"
 nocomment = true
 
