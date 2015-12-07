@@ -1,6 +1,7 @@
 baseurl = "http://davojan.ru/"
 languageCode = "ru-ru"
 title = "/davojan/register"
+theme = "redlounge"
 
 disqusShortname = "davojan"
 
