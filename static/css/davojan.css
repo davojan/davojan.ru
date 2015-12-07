@@ -47,10 +47,6 @@ h2.brand-tagline {
   font-size: 1.3rem;
 }
 
-.sidebar {
-  min-height: 350px;
-}
-
 .copyright {
   font-size: 0.7rem;
   vertical-align: middle;
@@ -239,6 +235,10 @@ h1.post-title a {
 
   h1.brand-title {
     padding-top: 0;
+  }
+
+  .sidebar {
+    min-height: 350px;
   }
 
   .nav {
