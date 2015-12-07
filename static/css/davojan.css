@@ -212,6 +212,23 @@ h1.post-title a {
   color: #7F1000;
 }
 
+.caption-404 {
+  color: #B72121;
+  font-size: 8rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.emoji-curious-404 {
+  font-size: 5rem;
+  margin-left: 10rem;
+}
+
+.message-404 {
+  font-size: 1.3rem;
+  line-height: 2rem;
+}
+
 @media (min-width: 48rem) {
 
   .header {
