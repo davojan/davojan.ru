@@ -9,7 +9,7 @@
 
       <div class="posts">
 
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "!=" "archive") }}
+        {{ $paginator := .Paginate (where .Data.Pages "Section" "not in" "[archive pages]" ) }}
 
         {{ range $paginator.Pages }}
           <section  class="post">

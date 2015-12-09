@@ -9,7 +9,7 @@
 
       <h1 class="post-title"><a href="/archive/">Архив записей</a></h1>
 
-      {{ $filtered := where .Site.Pages "Type" "!=" "archive" }}
+      {{ $filtered := where .Site.Pages "Section" "not in" "[archive pages]" }}
 
       {{ range $filtered.GroupByDate "2006" }}
         <div class="pure-g">
