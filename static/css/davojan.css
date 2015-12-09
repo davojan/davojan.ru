@@ -289,3 +289,11 @@ h1.post-title a {
     display: block;
   }
 }
+
+@media only screen
+    and (max-device-width: 736px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+  p {
+    font-size: 1.1rem;
+  }
+}
